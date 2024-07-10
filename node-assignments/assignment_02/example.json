@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "age": 36,
+    "matches": 227,
+    "runs": 9376,
+    "wickets": 8
+  },
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "age": 35,
+    "matches": 275,
+    "runs": 12809,
+    "wickets": 4
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Batsman",
+    "age": 31,
+    "matches": 54,
+    "runs": 1986,
+    "wickets": 0
+  }
+]
